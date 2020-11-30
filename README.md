@@ -10,4 +10,4 @@ OR
 * Open the .html file with any Internet browser
 
 # Note about Gmail usage
-* Paste the rendered signature onto the signature field in Settings
+Paste the rendered signature onto the signature field in Settings
